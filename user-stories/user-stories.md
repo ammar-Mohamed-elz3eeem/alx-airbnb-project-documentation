@@ -1,0 +1,14 @@
+- As a user, I want to be able to register an account so that I can list my properties.
+- As a user, I want to be able to login to my account so that I can list my properties.
+- As a user, I want to be able to logout of my account so that I can secure my account.
+- As a user, I want to be able to reset my password so that I can recover my account if I forget my password.
+- As a user, I want to be able to change my password so that I can secure my account.
+- As a user, I want to be able to delete my account so that I can close my account if I want to stop using the service.
+- As a user, I want to be able to view my profile so that I can see my account information.
+- As a user, I want to be able to search for properties so that I can find a property to book.
+- As a user, I want to be able to filter properties so that I can find a property to book.
+- As a user, I want to be able to sort properties so that I can find a property to book.
+- As a user, I want to be able to view property details so that I can see the property information.
+- As a user, I want to be able to view property availability so that I can see the property availability.
+- As a user, I want to be able to book a property so that I can book a property.
+- As a user, I want to be able to cancel a booking so that I can cancel a booking.
